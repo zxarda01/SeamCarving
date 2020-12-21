@@ -4,6 +4,7 @@ This is my python implementation for the paper, [Seam Carving for Content-Aware 
 
 ## Requirements
 Python 3.6.9
+
 Packages : OpenCV,and Numpy
 
 ## Examples 
